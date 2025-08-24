@@ -4,9 +4,6 @@ import openpyxl
 import os
 from datetime import datetime
 
-
-# this is test revert
-
 # Load known student data (similar to the previous example)
 student_data = {
     "Waseem Sajjad": ["Students\\Waseem Sajjad\\image1.jpg", "Students\\Waseem Sajjad\\image2.jpg"],
